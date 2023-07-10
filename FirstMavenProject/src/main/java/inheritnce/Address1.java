@@ -10,7 +10,7 @@ public class Address1 {
 	{
 	this.rollno = rollno1;
 	this.address = address1;
-	
+	System.out.println("cvvv");
 		
 	}
 }
